@@ -1,0 +1,7 @@
+Model,Best Accuracy,Best Parameters
+Random Forest,0.8024569980408721,"{'max_depth': 10, 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 100}"
+Logistic Regression,0.8005524650861837,"{'C': 0.1, 'penalty': 'l2', 'solver': 'lbfgs'}"
+SVM,0.795888527418804,"{'C': 0.1, 'gamma': 'scale', 'kernel': 'linear'}"
+Decision Tree,0.7855020040620451,"{'criterion': 'entropy', 'max_depth': 5, 'min_samples_leaf': 4, 'min_samples_split': 2}"
+KNN,0.770240801984291,"{'metric': 'euclidean', 'n_neighbors': 11, 'weights': 'uniform'}"
+Naive Bayes,0.6528200657835612,{'var_smoothing': 1e-09}
